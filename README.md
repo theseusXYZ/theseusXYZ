@@ -3,15 +3,7 @@
 
 
 
-# ⚡ VECTOR
-### 
- - D
- - Y
- - O
- - R
-
-#
-
+# ⚡ D Y O R
 
 ### s+FunxqMTcSrbrHO4bPEVw==
 
@@ -20,6 +12,3 @@
 ### U2FsdGVkX19QAvXQwvJnoy4UvM3K1prM8OqLm3taLWIGkupU8Lu7ft9oytqFm3HA
 
 ### eyJpdiI6IlpFdE9HNlpXWE1oczh6MzU4cFFRcmc9PSIsCiJ2IjoxLAoiaXRlciI6MTAwMCwKImtzIjoyNTYsCiJ0cyI6NjQsCiJtb2RlIjoiY2NtIiwKImFkYXRhIjoiIiwKImNpcGhlciI6ImFlcyIsCiJzYWx0IjoiNVVKSmswTUhQeFk9IiwKImN0IjoiblNkTlRJUzJTalMrN3BjWEFobjdtZWRsQWJ0dnI0SU9aelk9In0=
-
-# ⚡ PAY ATTENTION
-
