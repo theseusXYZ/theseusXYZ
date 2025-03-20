@@ -24,7 +24,7 @@ At Vector, our mission is to revolutionize the manufacturing industry through in
 
 ## Meet the Founders - **** & **** 👨‍💼👨‍💼
 
-**** & ****, the brains behind Vector, are R&D software engineers and researchers with a profound passion for computational design and robotics. Their expertise in advanced computational techniques and dedication to innovation have been instrumental in establishing Axis as a leader in parametric robot control software. **** is currently completing his industrial PhD on ML-based point-cloud segmentation and classification for the purposes of building re-use. **** recently started [Graph](WEBSITE/), a consultancy and development partner specialising in elegant solutions to complex computational problems as well as general software engineering, app & web development & training.
+**** & ****, the brains behind Vector, are R&D software engineers and researchers with a profound passion for computational design and robotics. Their expertise in advanced computational techniques and dedication to innovation have been instrumental in establishing Vector as a leader in parametric robot control software. **** is currently completing his industrial PhD on ML-based point-cloud segmentation and classification for the purposes of building re-use. **** recently started [VECTOR](WEBSITE/), a consultancy and development partner specialising in elegant solutions to complex computational problems as well as general software engineering, app & web development & training.
 
 ### Our Expertise ⚡
 
