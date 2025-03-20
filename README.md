@@ -36,8 +36,7 @@ At Vector, our mission is to revolutionize the manufacturing industry through in
 
 Interested in exploring the possibilities of robotic automation? Want to discuss a potential collaboration? We'd love to hear from you!
 
-- 📧 Email: [****](WEBSITE)
-- 🌐 Website: [****](https://intelfnacc.wixsite.com/vector)
-- 📍 Location: 
+- 🌐 Website: [Vectordyor.xyz](https://intelfnacc.wixsite.com/vector)
+-  Twitter / X : [X](https://x.com/VectorDYOR) 
 
-Join us in shaping the future of robotic manufacturing! 🚀
+Join us in shaping the future of robotic manufacturing and AI! 🚀
