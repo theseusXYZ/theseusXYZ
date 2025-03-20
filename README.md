@@ -3,12 +3,7 @@
 
 
 
-# Welcome to VECTOR ⚡
-
-
-
-
-## About VECTOR 🛠️
+# VECTOR ⚡
 
 Vector is a pioneering project in the field of robotic process design & manufacturing, specializing in the development of cutting-edge parametric robot control software. We empower industries to harness the full potential of robotics, enhancing precision, efficiency, and innovation in manufacturing processes.
 
