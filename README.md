@@ -7,7 +7,8 @@
 
 Vector is a pioneering project in the field of robotic process design & manufacturing, specializing in the development of cutting-edge parametric robot control software. We empower industries to harness the full potential of robotics, enhancing precision, efficiency, and innovation in manufacturing processes.
 #
-- 🌐 Website: [vectordyor.xyz](https://intelfnacc.wixsite.com/vector)
+- 🌐 Website : [vectordyor.xyz](https://intelfnacc.wixsite.com/vector)
 -  Twitter / X : [X](https://x.com/VectorDYOR) 
+- Gitbook : [Gitbook](https://vector-dyor.gitbook.io/vector-dyor/C5Ie81O3T4dMPx3zAOCp)
 #
 Join us in shaping the future of robotic manufacturing and AI! 🚀
