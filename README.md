@@ -1,8 +1,6 @@
 <div align="center">
-  <h1 align="center">Theseus</h1>
+  <h1 align="center">Theseus: Solana DeFi AI Agent Builder that revolutionizes decentralized finance</h1>
 </div>
-
-### A Solana DeFi AI Agent Builder that revolutionizes decentralized finance
 
 
 [Video](https://github.com/user-attachments/assets/e9b10ccd-68da-4e69-a978-8ebd314213fd)
