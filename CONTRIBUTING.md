@@ -1,4 +1,4 @@
-# Contributing to theseus
+# Contributing to Theseus
 
 Thank you for your interest in contributing to theseus! We welcome contributions from the community to help make theseus a powerful and widely-accessible AI assistant for software developers.
 
