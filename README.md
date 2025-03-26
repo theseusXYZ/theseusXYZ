@@ -223,7 +223,7 @@ For details, please check [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 # Feedback
 
-We would love feedback! Tweet at us! [X](xxx)
+We would love feedback! Tweet at us! [X](https://x.com/Theseus_XYZ)
 We collect basic event type (i.e. "tool call") and failure telemetry to solve bugs and improve the user experience, but if you want to reach out, we would love to hear from you!
 
 To disable telemetry, set the environment variable `theseus_TELEMETRY_DISABLED` to `true` 
@@ -233,4 +233,4 @@ export theseus_TELEMETRY_DISABLED=true
 
 # Community
 
-Tweet at us! [X](xxx)
+Tweet at us! [X](https://x.com/Theseus_XYZ)
