@@ -1,9 +1,6 @@
 <div align="center">
   <h1 align="center">Theseus</h1>
 </div>
-
-### How do you ship so quickly?
-We have a __**community-driven Dev Team**__ for this repo.
   
 # Installation
 
