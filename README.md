@@ -1,10 +1,9 @@
 <div align="center">
-  <h1 align="center">Theseus</h1>
-</div>
-  
-# Installation
+ <img src="https://pbs.twimg.com/profile_banners/1904854032377610240/1743023725/1500x500" alt="Sonoma Labs Banner" width="800"/>
+ </div>
 
-## Prerequisites
+# Theseus - Building reliable DeFi agents on Solana
+## Installation Prerequisites
 
 1. `node.js` and `npm`
 2. `pipx`, if you don't have this go [here](https://pipx.pypa.io/stable/installation/)
