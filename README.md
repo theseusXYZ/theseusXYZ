@@ -1,9 +1,6 @@
 <div align="center">
-  <h1 align="center">Theseus: Solana DeFi AI Agent Builder that revolutionizes decentralized finance</h1>
+  <h1 align="center">Theseus</h1>
 </div>
-
-
-[Video](https://github.com/user-attachments/assets/e9b10ccd-68da-4e69-a978-8ebd314213fd)
 
 ### How do you ship so quickly?
 We have a __**community-driven Dev Team**__ for this repo.
