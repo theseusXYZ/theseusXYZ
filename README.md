@@ -168,6 +168,7 @@ theseus-tui --help
   - [x] Ollama deepseek-6.7b
   - [x] Google Gemini 1.5 Pro
   - [ ] Deepseek r1
+  - [ ] Official token launch
 - Launch plugin system for tool and agent builders
 - Improve our self-hostable Electron app
 - Set SOTA on [SWE-bench Lite](https://www.swebench.com/lite.html)
