@@ -11,8 +11,6 @@
    - [**Anthropic**](https://console.anthropic.com/settings/keys)
     - [**OpenAI**](https://platform.openai.com/api-keys)
 
-> We're currently working on supporting Windows! (Let us know if you can help)
-
 ## Installation commands
 
 To install using `pipx` + `npm`:
