@@ -2,6 +2,18 @@
  <img src="https://pbs.twimg.com/profile_banners/1904854032377610240/1743023725/1500x500" alt="Sonoma Labs Banner" width="800"/>
  </div>
 
+<p align="center">
+  <a href="https://www.theseusxyz.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-theseusxyz.com-blue?style=for-the-badge" alt="Website">
+  </a>
+  <a href="https://discord.gg/theseusxyz" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Join%20Server-7289DA?style=for-the-badge&logo=discord" alt="Discord">
+  </a>
+  <a href="https://x.com/theseus_xyz" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter">
+  </a>
+</p>
+
 # Theseus - Building reliable DeFi agents on Solana
 ## Installation Prerequisites
 
