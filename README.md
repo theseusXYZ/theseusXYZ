@@ -14,7 +14,10 @@
   </a>
 </p>
 
-# Theseus - Building reliable DeFi agents on Solana
+# Theseus
+
+A Solana-based staking protocol for token yield generation with time-based rewards.
+
 ## Installation Prerequisites
 
 1. `node.js` and `npm`
