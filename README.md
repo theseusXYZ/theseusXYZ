@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://pbs.twimg.com/profile_banners/1904854032377610240/1743023725/1500x500" alt="Sonoma Labs Banner" width="800"/>
+ <img src="https://pbs.twimg.com/profile_banners/1904854032377610240/1743845818/1500x500" alt="Theseus banner" width="800"/>
  </div>
 
 <p align="center">
