@@ -15,7 +15,7 @@
 
 A Solana-based staking protocol for token yield generation with time-based rewards.
 
-## Installation Prerequisites
+## AI-agent Installation Prerequisites
 
 1. `node.js` and `npm`
 2. `pipx`, if you don't have this go [here](https://pipx.pypa.io/stable/installation/)
